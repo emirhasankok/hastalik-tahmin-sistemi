@@ -14,3 +14,6 @@ Kullanılan Teknolojiler
 * Mlxtend (Apriori - Association Rules)
 * Streamlit
 * Pyvis, Pandas
+
+Projede Kullanılan Dataset:
+https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning?resource=download
